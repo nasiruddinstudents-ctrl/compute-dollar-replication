@@ -1,0 +1,5 @@
+scenario,yuan_share,inaccessibility,recycling_loss_T,safe_asset_reduction_pct,RA_LDC_simulated,RA_LDC_change_pct,pct_LDC_below_imf
+Current Dollar System,0,0.8,0,0,NA,NA,NA
+Partial De-dollar (20%),0.2,0.8,0.20320000000000002,16.000000000000004,NA,NA,NA
+Partial De-dollar (40%),0.4,0.8,0.40640000000000004,32.00000000000001,NA,NA,NA
+Full Yuan System,1,0.8,1.016,80,NA,NA,NA
